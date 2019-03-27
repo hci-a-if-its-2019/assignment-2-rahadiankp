@@ -16,31 +16,20 @@ If you choose to take a picture of your sketches, please make sure the texts are
 ![Realisasi SKEM](img/realisasi.jpg)
 
 ### 2. Version Differences
-```
 Not really significant differences for each version. Only slight redesign and change in placement for each block that appear on the page.
-```
 
 ### 3. Selected Sketch
-```
 For both problems, I prefer the third version. The scroll bar in the 'Realisasi/Perencanaan SKEM' section makes it looks great and users don't have to scroll the page. As for the input section, the dropdowns are well-categorized and well-placed.
-```
 
 ### 4. Design Rationale
-```
 The most annoying thing is the dropdown, as my friend complained earlier in my assignment 1. I have designed the dropdowns split into several parts, "Jenis Kegiatan", "Sub-kegiatan", "Kategori Juara/Capaian", "Tingkat". And with that, hopefully the users don't need to scroll a never-ending dropdowns.  
 For 'Realisasi SKEM' page, I have added a section where the users can look for what they have added when inserting data in 'Perencanaan SKEM'. Users can easily refer to the data they have inserted without making new one.
-```
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
 Since Integra itself is not designed as mobile-friendly, most users use laptop to visit the portal. Thus it is safe to assume that users have screen at least 10" in size.
-```
 ### 2. Users
-```
-Are there any other factors about the users that will influence your design?
 This portal is used by students as well as lecturers or department administrators, so user experience may vary. But at the very least, the users have adequate experiences in browsing a website and know how the components (the UI) should work. The students, lecturers, or department administrators have used laptops/PCs in their daily basis.
-```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+High Fidelity Prototype: [here](https://invis.io/XHR8K8TT9FW)
