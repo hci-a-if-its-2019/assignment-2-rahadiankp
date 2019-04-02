@@ -32,4 +32,5 @@ Since Integra itself is not designed as mobile-friendly, most users use laptop t
 This portal is used by students as well as lecturers or department administrators, so user experience may vary. But at the very least, the users have adequate experiences in browsing a website and know how the components (the UI) should work. The students, lecturers, or department administrators have used laptops/PCs in their daily basis.
 
 ## Part C: Prototypes
-High Fidelity Prototype: [here](https://invis.io/8CR8KHKP9B2)
+High Fidelity Prototype (Freehand): [here](https://invis.io/8CR8KHKP9B2)  
+High Fidelity Prototype (Newer)   : [here](https://invis.io/YNRC0AIZS97)  
